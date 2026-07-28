@@ -56,5 +56,4 @@ During these exercises I practiced:
 
 Fernando Ferreira
 
-- GitHub: https://github.com/fernandof-santos
 - LinkedIn: https://www.linkedin.com/in/fernandofsantos

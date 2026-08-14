@@ -56,4 +56,4 @@ During these exercises I practiced:
 
 Fernando Ferreira
 
-- LinkedIn: https://www.linkedin.com/in/fernandofsantos
+- LinkedIn: hwww.linkedin.com/in/fernandof-santos
